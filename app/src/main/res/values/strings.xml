@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RedditBrowser</string>
+    <string name="action_search">Search for a subbreddit</string>
+</resources>
